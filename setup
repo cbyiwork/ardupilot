@@ -1,0 +1,7 @@
+Binary file build/mini-pix/bin/ardurover.bin matches
+Binary file build/mini-pix/bin/ardurover matches
+Binary file build/mini-pix/lib/libAPMrover2_libs.a matches
+Binary file build/mini-pix/libraries/AP_HAL_ChibiOS/HAL_ChibiOS_Class.cpp.2.o matches
+libraries/AP_HAL_ChibiOS/HAL_ChibiOS_Class.cpp:211:	hal.uartB->printf("g_callbacks->setup() OK\n");
+libraries/AP_HAL_ChibiOS/HAL_ChibiOS_Class.cpp:212:    g_callbacks->setup();
+libraries/AP_HAL_ChibiOS/HAL_ChibiOS_Class.cpp:258:        g_callbacks->loop();
